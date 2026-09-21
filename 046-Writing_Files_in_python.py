@@ -1,0 +1,5 @@
+file=open("doc.txt" , "r")
+print(file.read())
+file=open("doc.txt" , "w")
+file.write("I'm A Good Boy")
+file.close()
