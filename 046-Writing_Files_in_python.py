@@ -12,3 +12,6 @@ file.close()
 #####Append data into files
 file=open("doc.txt" ,  "a")
 file.write("\nNo I'm Not a Good Boy")
+
+#####File closing
+file.close()
