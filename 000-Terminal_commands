@@ -26,3 +26,5 @@ conda activate [enviornment_name]
 this command is used to activate desired environment
 
 _____________________________________
+
+conda create --name myenv python=3.12
